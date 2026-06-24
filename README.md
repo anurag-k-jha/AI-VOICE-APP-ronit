@@ -1,7 +1,7 @@
 # 🎙️ AI Voice App ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Stars](https://github.com/anuragji111/AI-VOICE-APP.git)
 
 An intelligent AI-powered voice assistant application built with cutting-edge web technologies.  
-It's developed for **SIH 2025**.
+It's developed for **SIH 2025** hackathon.
 
 ---
 
