@@ -1,4 +1,4 @@
-# 🎙️ AI Voice App ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Stars](https://github.com/anuragji111/AI-VOICE-APP-ronit.git)
+# 🎙️ AI Voice App ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Stars](https://github.com/anuragji111/AI-VOICE-APP.git)
 
 An intelligent AI-powered voice assistant application built with cutting-edge web technologies.  
 Originally developed by **Ronit**, extended and improved collaboratively by **Anurag & Riya** for **SIH 2025**.
@@ -56,3 +56,5 @@ Ai-Voice-App/
 
 ## 📜 License
 This project is licensed under the MIT License – free to use and improve.
+
+To test - vocalx.xyz
